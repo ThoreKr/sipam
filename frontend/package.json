@@ -42,7 +42,7 @@
     "@vue/eslint-config-typescript": "^11.0.3",
     "@vue/tsconfig": "^0.4.0",
     "autoprefixer": "^10.4.14",
-    "braces": "^3.0.2",
+    "braces": "^3.0.3",
     "eslint": "^8.44.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.8.0",
